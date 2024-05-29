@@ -1,0 +1,14 @@
+C:\Users\user\VisualBasic\bin\Debug\net8.0-windows\VisualBasic.exe
+C:\Users\user\VisualBasic\bin\Debug\net8.0-windows\VisualBasic.deps.json
+C:\Users\user\VisualBasic\bin\Debug\net8.0-windows\VisualBasic.runtimeconfig.json
+C:\Users\user\VisualBasic\bin\Debug\net8.0-windows\VisualBasic.dll
+C:\Users\user\VisualBasic\bin\Debug\net8.0-windows\VisualBasic.pdb
+C:\Users\user\VisualBasic\obj\Debug\net8.0-windows\VisualBasic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\VisualBasic\obj\Debug\net8.0-windows\VisualBasic.AssemblyInfoInputs.cache
+C:\Users\user\VisualBasic\obj\Debug\net8.0-windows\VisualBasic.AssemblyInfo.vb
+C:\Users\user\VisualBasic\obj\Debug\net8.0-windows\VisualBasic.vbproj.CoreCompileInputs.cache
+C:\Users\user\VisualBasic\obj\Debug\net8.0-windows\VisualBasic.dll
+C:\Users\user\VisualBasic\obj\Debug\net8.0-windows\refint\VisualBasic.dll
+C:\Users\user\VisualBasic\obj\Debug\net8.0-windows\VisualBasic.pdb
+C:\Users\user\VisualBasic\obj\Debug\net8.0-windows\VisualBasic.genruntimeconfig.cache
+C:\Users\user\VisualBasic\obj\Debug\net8.0-windows\ref\VisualBasic.dll
